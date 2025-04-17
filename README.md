@@ -1,4 +1,4 @@
 # hamza
 This is my first repository
 <br>
-auther = malik hamza 
+auther = (Ali Hamza)
